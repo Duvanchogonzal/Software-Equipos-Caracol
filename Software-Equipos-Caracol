@@ -1,0 +1,51 @@
+# Perfil Standar
+
+## Software
+
+- [ ] Office 365
+  - [ ]  Repo en c:\Software\Office 2016
+- [ ] VLC
+- [ ] 7zip
+- [ ] Google Chrome / Mozilla / Edge Chromium
+- [ ] Adobe Acrobat Reader DC
+- [ ] Java
+- [ ] Teams
+- [ ] VPN
+- [ ] Antivirus
+- [ ] Visualizador de Imagenes [Visualizador de imagenes windows]("\\10.80.34.49\software\VisualizadorImagenesWindows\")
+
+## Configuraciones
+- [ ] RDP
+- [ ] Servicios de Windows(msconfig)
+- [ ] Grupos en Administracion de Equipos
+- [ ] Firewall (Para equipos en Home Office se debe dejar firewall arriba para las redes publicas)
+
+
+## Configuraciones al configurar un perfil local o en la inclusion del dominio
+- [ ] Usuarios Avanzados
+- [ ] Usuarios Remotos
+- [ ] PDF SAM
+- [ ] Operadores de red
+- [ ] Firewall
+
+- 
+## Configuraciones despues de instalar la imagen segun el perfil
+- AnyDesk ID (All)
+- Sap (Administracion)
+- OBS (Digital)
+- Regional Idioma (All)
+
+
+
+
+# Perfil Digital
+
+## Software Digital / Musical
+- Remote Desktop para Music Master (Musical)
+- Software de standar 
+- CONVERT
+- GIMP
+- Audacity
+- Adobe Creative Cloud (Segun aplique)
+## Accesos Digital
+- Enciclomedia
